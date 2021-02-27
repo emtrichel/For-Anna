@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<Title>For Anna</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="header">
+	<h1>For Anna</h1>
+<style>
+body {
+	font-family: arial;
+}
+.header {
+	padding: 80px;
+	text-align: center;
+	background-color: pink;
+	color: white;
+}
+.header h1 {
+	font-size: 40px;
+}
+</style>
+</head>
+<body>
+	<p><em>I love you, babe, with all of my heart.</em></p>
+</div>
+</body>
+</html>
